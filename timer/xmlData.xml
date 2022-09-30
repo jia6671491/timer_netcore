@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inventory>
+  <item>
+    <Description>Table</Description>
+    <Count>2</Count>
+  </item>
+  <item>
+    <Description>Chair</Description>
+    <Count>18</Count>
+  </item>
+  <item>
+    <Description>duraction</Description>
+    <Count>3605</Count>
+  </item>
+</inventory>
